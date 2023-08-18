@@ -109,12 +109,12 @@ Verificar a quantidade de numeros pares existentes entre 0 e 10
     ${CONTADOR}    Set Variable    0
 
     FOR    ${INDEX}    IN RANGE    0    11
-        ${CONTADOR}=    IF    ${INDEX} % 2 == 0    Evaluate    ${CONTADOR} + 1    ELSE    Continue For Loop
+        ${CONTADOR}=    IF    ${INDEX} % 2 == 0    Evaluate    ${CONTADOR} + 1    ELSE    Set Variable    ${CONTADOR}
     END
     
-    # # Outra forma de fazer  
+    # Outra forma de fazer  
     # FOR    ${INDEX}    IN RANGE    0    11
-    #     ${CONTADOR}=    IF    ${INDEX} % 2 == 0    Evaluate    ${CONTADOR} + 1    ELSE    Set Variable    ${CONTADOR}
+    #     ${CONTADOR}=    IF    ${INDEX} % 2 == 0    Evaluate    ${CONTADOR} + 1    ELSE    Continue For Loop
     # END
 
     # Outra forma de fazer
