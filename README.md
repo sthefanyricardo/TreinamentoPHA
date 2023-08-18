@@ -1,9 +1,9 @@
 # Prime Hero Academy - Capacitação em Fundamentos e Automação de Testes
 
-Neste repositório, compartilho a resolução do desafio 2 sobre Automação de Testes com Robot Framework proposto na 2º semana do treinamento Prime Hero Academy 6º Edição.
+Neste repositório, compartilho a resolução do 2º desafio referente a Automação de Testes com Robot Framework, proposto na 2º semana do treinamento Prime Hero Academy 6º Edição.
 
 # Sobre o Treinamento
-O Prime Hero Academy 6º Edição é um programa de capacitação oferecido pela Prime Control, que visa proporcionar aos participantes uma capacitação rápida para o aprimoramento dos conhecimentos em fundamentos de testes e da automação de testes com o uso do Robot Framework. Com duração total de aproximadamente 26 horas e 40 minutos, o treinamento é conduzido em um formato híbrido, combinando aulas síncronas e assíncronas.
+O Prime Hero Academy 6º Edição é um programa de capacitação oferecido pela Prime Control, que visa proporcionar aos participantes uma capacitação rápida para o aprimoramento dos conhecimentos em fundamentos de testes e da automação de testes com o uso do Robot Framework. Com duração total de aproximadamente 26 horas e 40 minutos, o treinamento foi conduzido em um formato híbrido, combinando aulas síncronas e assíncronas.
 
 # Conteúdo Aprendido
 Durante o treinamento, exploramos os seguintes tópicos:
